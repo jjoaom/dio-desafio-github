@@ -1,0 +1,35 @@
+Comandos essenciais GIT
+
+GIT INIT
+
+GIT STATUS
+
+GIT ADD . 
+
+GIT COMMIT -M "mensagem"
+
+GIT PUSH
+
+Como criar repositorios em git
+
+Primeiro passo, realizar o download e instalação do GIT. Segue link para download: https://git-scm.com/downloads
+
+Após instalação, abrir o git bash e inserir nome e email de acordo com sua conta GitHub
+
+git config --global user.name "seu nome de usuário"
+
+git config --global user.email "seu endereço de email"
+
+Feito isso já podemos partir para a criação do repositório
+
+Acesse a pasta onde ele será mantido e com o botão direito clique para abrir o bash aqui
+
+GIT INIT = vai iniciar o git na pasta
+
+Crie e envie seus arquivos dentro da pasta
+
+Para enviar ao repositório local use o comando git add . para inserir todos os arquivos ou selecione manualmente
+
+Após enviar de um commit usando GIT COMMIT -M "mensagem do commit"
+
+Use o GIT PUSH para enviar ao repositório no servidor.

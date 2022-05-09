@@ -1,0 +1,11 @@
+Comandos essenciais GIT
+
+GIT INIT
+
+GIT STATUS
+
+GIT ADD . 
+
+GIT COMMIT -M "mensagem"
+
+GIT PUSH
